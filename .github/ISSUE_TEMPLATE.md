@@ -21,7 +21,7 @@ Describe the behaviour you're expecting.
 
 List all the steps needed to reproduce the issue you're having. Make sure to include code (affected models, configurations),
 any screenshots and/or other resources that may help us understand what's going on.
-
+any screenshots and/or other resources that may help us understand what's going on fix.
 
 #### Possible Solutions
 
