@@ -26,3 +26,4 @@ any screenshots and/or other resources that may help us understand what's going 
 #### Possible Solutions
 
 If you have any ideas on how to solve the issue, add them here, otherwise you can omit this part.
+If you have any ideas on how to solve the issue, add them here, otherwise you can omit this part updated.
